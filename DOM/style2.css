@@ -1,0 +1,12 @@
+/* h1,h3,h5{
+    color:green
+} */
+
+h3{
+    color:green;
+    background: red;
+}
+
+h1,h2,h3{
+    color:purple
+}
